@@ -40,7 +40,24 @@ section {
 }
 
 section h2 {
-    color: #24292e;
+    color: #fff;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+.git-section {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.benefits-section {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.commands-section {
+    background-color: #28a745;
+    color: #fff;
 }
 
 footer {
