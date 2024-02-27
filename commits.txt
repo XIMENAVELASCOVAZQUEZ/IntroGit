@@ -1,0 +1,17 @@
+commit 702f4beb5e6ec19c6f85b476ec5ec2429314a02f
+Author: Ximena <ximena.velasco@cceo.com.mx>
+Date:   Tue Feb 27 10:40:10 2024 -0600
+
+    Se arreglo la hoja de estilos
+
+commit 3dd2126ac8289d2fa94dd7207d0a52fd8c3df3c1
+Author: Ximena <ximena.velasco@cceo.com.mx>
+Date:   Tue Feb 27 10:33:59 2024 -0600
+
+    Se modificó el html y la hoja de estilos
+
+commit 21120413992f2cf98cc2e4936bea8f2d5e945142
+Author: Ximena <ximena.velasco@cceo.com.mx>
+Date:   Tue Feb 27 10:25:54 2024 -0600
+
+    Iniciamos
